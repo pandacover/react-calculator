@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Math.js Library
+An extensive math library for JavaScript and Node.js
+Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to use.
+
+### Features
+Supports numbers, big numbers, complex numbers, fractions, units, strings, arrays, and matrices.
+Is compatible with JavaScript’s built-in Math library.
+Contains a flexible expression parser.
+Does symbolic computation.
+Comes with a large set of built-in functions and constants.
+Can be used as a command line application as well.
+Runs on any JavaScript engine.
+Is easily extensible.
+Open source.
+
+[Click here](https://mathjs.org/) to learn more.
